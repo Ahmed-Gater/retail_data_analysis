@@ -1,11 +1,11 @@
 {
-  "template": "retail*",
+  "template": "online_store_sales**",
   "settings": {
-    "number_of_shards": 1,
+    "number_of_shards": 4,
     "number_of_replicas": 0
   },
   "mappings": {
-    "invoice": {
+    "item": {
       "_source": {
         "enabled": true
       },
