@@ -30,6 +30,10 @@
             }
           }
         },
+        "Region": {
+          "type": "string",
+          "index": "not_analyzed"
+        },
         "t_location": {
             "type": "geo_point",
             "geohash": true,
