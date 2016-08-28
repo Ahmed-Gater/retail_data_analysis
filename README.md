@@ -18,3 +18,5 @@ A demo showing how to use Elasticsearch to analysis onlince store data
     }
   }
 }
+
+2.Pour faire fonctionner la map pour kibi: consulter cette page (https://siren.solutions/patch-for-the-map-issue-4-4-2/)
